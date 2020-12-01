@@ -1,5 +1,5 @@
 from PyQt5 import QtCore, QtWidgets
-import numpy as np
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
