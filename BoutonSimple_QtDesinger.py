@@ -1,5 +1,5 @@
 from PyQt5 import QtCore, QtWidgets
-CA MARCHE BORDEL
+#CA MARCHE BORDEL
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
