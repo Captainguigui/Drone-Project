@@ -1,11 +1,5 @@
 from PyQt5 import QtCore, QtWidgets
-import logging
-import time
 
-import cflib.crtp
-from cflib.crazyflie import Crazyflie
-from cflib.crazyflie.syncCrazyflie import SyncCrazyflie
-from cflib.positioning.motion_commander import MotionCommander
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
